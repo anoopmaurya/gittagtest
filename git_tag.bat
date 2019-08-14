@@ -12,7 +12,7 @@ git merge develop
 git push
 
 ::preparing tag name
-SET tagname="ewb-%date%-%time%"
+SET tagname="EWB-%date%-%time%"
 
 
 ::tagging master branch with tagname+date
